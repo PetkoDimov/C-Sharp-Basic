@@ -1,0 +1,12 @@
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.exe
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.deps.json
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.json
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.runtimeconfig.dev.json
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.dll
+D:\SoftUni20\SquareArea\bin\Debug\netcoreapp3.1\SquareArea.pdb
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfoInputs.cache
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.AssemblyInfo.cs
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.csproj.CoreCompileInputs.cache
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.dll
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.pdb
+D:\SoftUni20\SquareArea\obj\Debug\netcoreapp3.1\SquareArea.genruntimeconfig.cache
