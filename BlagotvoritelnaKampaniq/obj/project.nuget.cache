@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkcgoB748w3D1VQmBvJuTeCWml0Cs8gqx3O69fOOBWiX2PCm2LWdZvYJOtzudnNZtHom3CzeQleo0xYiZllG2w==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\BlagotvoritelnaKampaniq\\BlagotvoritelnaKampaniq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

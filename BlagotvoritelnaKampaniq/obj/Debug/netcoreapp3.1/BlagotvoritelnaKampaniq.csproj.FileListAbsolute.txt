@@ -1,0 +1,13 @@
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.exe
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.deps.json
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.runtimeconfig.json
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.runtimeconfig.dev.json
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.dll
+D:\SoftUni20\BlagotvoritelnaKampaniq\bin\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.pdb
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.csprojAssemblyReference.cache
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.AssemblyInfoInputs.cache
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.AssemblyInfo.cs
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.csproj.CoreCompileInputs.cache
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.dll
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.pdb
+D:\SoftUni20\BlagotvoritelnaKampaniq\obj\Debug\netcoreapp3.1\BlagotvoritelnaKampaniq.genruntimeconfig.cache

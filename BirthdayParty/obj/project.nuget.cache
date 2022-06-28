@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fhXcn5DN6D4yVdmiHg3biqN4GIq+z2PoZ4F2HQKero+PSs6JsUhHiVgLf3/8TWtQHAfw3Ap4KCfIZ7Pmzd+abQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\BirthdayParty\\BirthdayParty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
