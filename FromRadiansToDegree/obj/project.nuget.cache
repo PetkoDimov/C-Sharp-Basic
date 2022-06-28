@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnEkxzHQpaJOkQkkDSKaMveM4Jx3rXkRr49UZFMWmNhL3KBONJvKL+uVw58Rn7ViCNSSbxV7azluWdTXKXFn9Q==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\FromRadiansToDegree\\FromRadiansToDegree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

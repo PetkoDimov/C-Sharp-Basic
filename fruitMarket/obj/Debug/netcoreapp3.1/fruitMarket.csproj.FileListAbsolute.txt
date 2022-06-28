@@ -1,0 +1,12 @@
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.exe
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.deps.json
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.runtimeconfig.json
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.runtimeconfig.dev.json
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.dll
+D:\SoftUni20\fruitMarket\bin\Debug\netcoreapp3.1\fruitMarket.pdb
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.AssemblyInfoInputs.cache
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.AssemblyInfo.cs
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.csproj.CoreCompileInputs.cache
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.dll
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.pdb
+D:\SoftUni20\fruitMarket\obj\Debug\netcoreapp3.1\fruitMarket.genruntimeconfig.cache

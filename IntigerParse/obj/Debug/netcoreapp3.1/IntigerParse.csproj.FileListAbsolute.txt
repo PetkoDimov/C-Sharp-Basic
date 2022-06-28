@@ -1,0 +1,13 @@
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.exe
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.deps.json
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.runtimeconfig.json
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.runtimeconfig.dev.json
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.dll
+D:\SoftUni20\IntigerParse\bin\Debug\netcoreapp3.1\IntigerParse.pdb
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.csprojAssemblyReference.cache
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.AssemblyInfoInputs.cache
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.AssemblyInfo.cs
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.csproj.CoreCompileInputs.cache
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.dll
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.pdb
+D:\SoftUni20\IntigerParse\obj\Debug\netcoreapp3.1\IntigerParse.genruntimeconfig.cache
