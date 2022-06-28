@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ij5Qem5x0LOrP6mxQxaXGDJtD/sC2b8HP/QVdleBk0x6vDmrtkw1pnq2oBH08aGNaSVBMfpGmE7XgD7DUjLPg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\OperationsWithText\\OperationsWithText.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

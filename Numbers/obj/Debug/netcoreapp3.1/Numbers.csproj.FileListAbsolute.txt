@@ -1,0 +1,13 @@
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.csprojAssemblyReference.cache
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfoInputs.cache
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.AssemblyInfo.cs
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.exe
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.deps.json
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.json
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.runtimeconfig.dev.json
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.dll
+D:\SoftUni20\Numbers\bin\Debug\netcoreapp3.1\Numbers.pdb
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.dll
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.pdb
+D:\SoftUni20\Numbers\obj\Debug\netcoreapp3.1\Numbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.exe
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.deps.json
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.runtimeconfig.json
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.runtimeconfig.dev.json
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.dll
+D:\SoftUni20\OperationsWithText\bin\Debug\netcoreapp3.1\OperationsWithText.pdb
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.AssemblyInfoInputs.cache
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.AssemblyInfo.cs
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.csproj.CoreCompileInputs.cache
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.dll
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.pdb
+D:\SoftUni20\OperationsWithText\obj\Debug\netcoreapp3.1\OperationsWithText.genruntimeconfig.cache
