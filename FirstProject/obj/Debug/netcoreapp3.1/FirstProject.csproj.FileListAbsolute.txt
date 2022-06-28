@@ -1,0 +1,13 @@
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.exe
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.deps.json
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.json
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.runtimeconfig.dev.json
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.dll
+D:\SoftUni20\FirstProject\bin\Debug\netcoreapp3.1\FirstProject.pdb
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csprojAssemblyReference.cache
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfoInputs.cache
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.AssemblyInfo.cs
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CoreCompileInputs.cache
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
+D:\SoftUni20\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.genruntimeconfig.cache

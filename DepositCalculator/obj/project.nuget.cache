@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XY1t4F+rGCdFBoncKR5jTdRyQOIdyDG++7+8FP6VJJS5lMEYPDBdKo/7aTtWNe9/QZRadkq8Q10WjiscGipHBw==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\DepositCalculator\\DepositCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

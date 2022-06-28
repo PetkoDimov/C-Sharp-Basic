@@ -1,0 +1,13 @@
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.exe
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.deps.json
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.runtimeconfig.json
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.runtimeconfig.dev.json
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.dll
+D:\SoftUni20\DogParty\bin\Debug\netcoreapp3.1\DogParty.pdb
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.csprojAssemblyReference.cache
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.AssemblyInfoInputs.cache
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.AssemblyInfo.cs
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.csproj.CoreCompileInputs.cache
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.dll
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.pdb
+D:\SoftUni20\DogParty\obj\Debug\netcoreapp3.1\DogParty.genruntimeconfig.cache

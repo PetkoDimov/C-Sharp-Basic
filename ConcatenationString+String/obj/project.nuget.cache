@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tRFmfNj4DQJZ/aYwTIzH9gFXg4pYb2g1mc+Z9E0S3MnS3aoa+6Qr95y/E7ODY9Vj1sxyV1bxVGK37b3JIq+Bvg==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni20\\ConcatenationString+String\\ConcatenationString+String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Close2die\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
